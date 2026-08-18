@@ -5,7 +5,7 @@ export INSTALL_PATH=/opt/openwisp/docker-openwisp
 export LOG_FILE=/opt/openwisp/autoinstall.log
 export ENV_USER=/opt/openwisp/config.env
 export ENV_BACKUP=/opt/openwisp/backup.env
-export GIT_PATH=${GIT_PATH:-https://github.com/openwisp/docker-openwisp.git}
+export GIT_PATH=${GIT_PATH:-https://github.com/galeksandrp/docker-openwisp.git}
 
 # Terminal colors
 export RED='\033[1;31m'
